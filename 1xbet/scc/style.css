@@ -1,0 +1,11 @@
+.float {
+    float: left;
+    width: 80%;
+    box-sizing: border-box;
+}
+
+.float-q {
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+}
